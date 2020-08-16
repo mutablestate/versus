@@ -1,0 +1,30 @@
+{
+  "name": "versus",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest src",
+    "test:watch": "yarn run test -- --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@testing-library/jest-dom": "^5.11.3",
+    "@testing-library/svelte": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.7.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-svelte3": "^2.7.3",
+    "jest": "^26.4.0",
+    "prettier": "^2.0.5",
+    "svelte": "^3.24.1",
+    "svelte-jester": "^1.0.6",
+    "svelte-preprocess": "^4.0.12",
+    "tailwindcss": "^1.6.2",
+    "vite": "1.0.0-rc.4",
+    "vite-plugin-svelte": "^2.4.0"
+  }
+}

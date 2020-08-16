@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with defaults 1`] = `
+<body>
+  <div>
+    <h1>
+      Hello 
+      default
+      !
+    </h1>
+     
+    <button
+      class="btn btn-blue svelte-127a350"
+    >
+      Button
+    </button>
+  </div>
+</body>
+`;
